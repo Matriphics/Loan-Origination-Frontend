@@ -7,10 +7,14 @@ MAKERLOGIN
 username:maker
 password:makerpass
 
+access url:https://loan-origination-frontend.vercel.app/makerlogin
+
 CHECKER LOGIN
 
 username:checker
 password:checkerpass
+
+access url:https://loan-origination-frontend.vercel.app/checkerlogin
 
 
 
