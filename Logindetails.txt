@@ -1,0 +1,22 @@
+USER LOGIN
+username:admin
+password:password123
+
+MAKERLOGIN
+
+username:maker
+password:makerpass
+
+CHECKER LOGIN
+
+username:checker
+password:checkerpass
+
+
+
+
+
+
+
+
+access url:https://loan-origination-frontend.vercel.app/
